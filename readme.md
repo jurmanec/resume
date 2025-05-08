@@ -7,7 +7,7 @@
 
 ## Summary
 
-Software engineer with over six years of experience, specializing in AWS serverless architectures, seeking to design scalable solutions for innovative tech-driven organizations.
+Software engineer with over six years of experience, specializing in AWS serverless architectures, seeking to design scalable solutions.
 
 ---
 
