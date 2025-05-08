@@ -1,7 +1,7 @@
 # Jacob Urmanec
 
 **Software Engineer**  
-📞 503.334.9479 | ✉️ [jurmanec@gmail.com](mailto:jurmanec@gmail.com) | 🔗 [linkedin.com/in/jacoburmanec](https://linkedin.com/in/jacoburmanec)
+✉️ [jurmanec@gmail.com](mailto:jurmanec@gmail.com) | 🔗 [linkedin.com/in/jacoburmanec](https://linkedin.com/in/jacoburmanec)
 
 ---
 
