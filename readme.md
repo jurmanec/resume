@@ -20,12 +20,12 @@ Software engineer with over six years of experience, specializing in AWS serverl
 - Collaborated with senior leadership to address system inefficiencies, eliminating unclaimed device dwell and improving operational performance.  
 - Worked with cross-domain architects to define functional requirements, authored detailed design documents, and mentored team members on modern **CI/CD pipelines** with automated regression testing, enhancing system reliability and delivery speed.
 
-### Application Engineering Analyst  
+### Application Engineering Analyst 
 **Accenture** | Sep 2020 – Aug 2021  
 - Enhanced **In-Store Pickup systems**, integrating Retail and Order Entry platforms, driving nationwide adoption of ‘Scan and Pack’ and reducing unclaimed order dwell time by **43%** (7 to 4 days).  
 - Optimized **Service Fulfillment systems**—tuned Lambda memory, replaced Kafka with Kinesis, and upgraded Elasticsearch—improving cost, security, and reliability.
 
-### Software Developer
+### DevOps Engineer
 **Revature** | Feb 2019 – Sep 2020  
 - Acted as sub-lead for Comcast’s **In-Store Pickup Middleware**, boosting unit test coverage to **94.2%** (Junit, SonarQube), automating routine biller processes, and implementing business logic like order enrichment and order auto-cancellation.  
 - Built observability tools (**Tableau**, **Kibana**, **Grafana**) and collaborated on a **Kinesis logging POC**, enhancing system monitoring and performance.
