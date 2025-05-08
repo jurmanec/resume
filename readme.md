@@ -13,7 +13,7 @@ Software engineer with over six years of experience, specializing in AWS serverl
 
 ## Professional Experience
 
-### Software Developer  
+### Engineer 3, Software Development and Engineering  
 **Comcast** | Aug 2021 – Present  
 - Led the launch of the **AWS Serverless Fulfillment 2.0 API**, replacing legacy billing systems and enabling company-wide adoption of modern architecture.  
 - Reduced BI sync latency by **96%** by integrating Pickup In-Store Middleware with Customer Timeline, Inventory, and DX DataLake, enabling real-time tracking and notifications.  
