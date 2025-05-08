@@ -14,19 +14,19 @@ Software engineer with over six years of experience, specializing in AWS serverl
 ## Professional Experience
 
 ### Engineer 3, Software Development and Engineering  
-**Comcast, Mt. Laurel, NJ** | Aug 2021 – Present  
+**Comcast** | Aug 2021 – Present  
 - Led the launch of the **AWS Serverless Fulfillment 2.0 API**, replacing legacy billing systems and enabling company-wide adoption of modern architecture.  
 - Reduced BI sync latency by **96%** by integrating Pickup In-Store Middleware with Customer Timeline, Inventory, and DX DataLake, enabling real-time tracking and notifications.  
 - Collaborated with senior leadership to address system inefficiencies, eliminating unclaimed device dwell and improving operational performance.  
 - Worked with cross-domain architects to define functional requirements, authored detailed design documents, and mentored team members on modern **CI/CD pipelines** with automated regression testing, enhancing system reliability and delivery speed.
 
 ### Advanced Application Engineering Analyst  
-**Accenture, Mt. Laurel, NJ** | Sep 2020 – Aug 2021  
+**Accenture** | Sep 2020 – Aug 2021  
 - Enhanced **In-Store Pickup systems**, integrating Retail and Order Entry platforms, driving nationwide adoption of ‘Scan and Pack’ and reducing unclaimed order dwell time by **43%** (7 to 4 days).  
 - Optimized **Service Fulfillment systems**—tuned Lambda memory, replaced Kafka with Kinesis, and upgraded Elasticsearch—improving cost, security, and reliability.
 
 ### Software Developer  
-**Revature, Mt. Laurel, NJ** | Feb 2019 – Sep 2020  
+**Revature** | Feb 2019 – Sep 2020  
 - Acted as sub-lead for Comcast’s **In-Store Pickup Middleware**, boosting unit test coverage to **94.2%** (Junit, SonarQube), automating routine biller processes, and implementing business logic like order enrichment and order auto-cancellation.  
 - Built observability tools (**Tableau**, **Kibana**, **Grafana**) and collaborated on a **Kinesis logging POC**, enhancing system monitoring and performance.
 
