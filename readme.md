@@ -1,7 +1,7 @@
 # Jacob Urmanec
 
 **Software Engineer**  
-✉️ [jurmanec@gmail.com](mailto:jurmanec@gmail.com) | 🔗 [linkedin.com/in/jacoburmanec](https://linkedin.com/in/jacoburmanec)
+🔗 [linkedin.com/in/jacoburmanec](https://linkedin.com/in/jacoburmanec)
 
 ---
 
